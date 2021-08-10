@@ -8,6 +8,9 @@
 1 teaspoon 		vanilla
 2 cups 			semisweet chocolate chips
 1 cup 			coarsely chopped nuts, if desired
+<<<<<<< HEAD
+1 tspn			chocolate sauce if desired
+=======
 
 
 Peanut butter cookie recipe
@@ -21,3 +24,4 @@ Peanut butter cookie recipe
 1 teaspoon baking powder
 1/2 teaspoon salt
 1 1/2 teaspoons baking soda
+>>>>>>> 24728c4750709b2cf7e36f60d4efac65d0c6c4ab
